@@ -60,5 +60,30 @@ Click on Departments->Add New Department->Name System Administrators
 Click on Teams->Add New Team->Name Level II Support
 
 
+<br />
+<br />
+
+
+![4](https://github.com/user-attachments/assets/fc768cdb-bd01-414d-a32f-22895fb4d8e2)
+
+![5](https://github.com/user-attachments/assets/54e36041-78ee-45a1-af2e-c3c4807e0bef)
+
+
+Click on Agents->Add New Agent->Fill in details
+
+
+<br />
+<br ?>
+
+
+![7](https://github.com/user-attachments/assets/fc5853af-7874-4bc9-bf13-9f6548db18bb)
+
+
+![8](https://github.com/user-attachments/assets/9803e9db-80e3-4a03-996a-ac3f21a0fe36)
+
+
+<br />
+
+
 <h2>osTicket Configurations are Complete </h2>
 
