@@ -34,8 +34,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 Login to osTicket with the admin_user->Click on Agents, Roles, and then Add New Role. Type in name “Supreme Users”->Grant all permissions
-
+<br />
 </p>
+<br />
+
 
 ![image](https://github.com/user-attachments/assets/28f3a11d-9d4f-4bc9-a4ed-98b031bfc515)
 
