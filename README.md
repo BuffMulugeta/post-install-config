@@ -28,22 +28,26 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+
+![1](https://github.com/user-attachments/assets/195d865c-902f-4a92-bd4e-54418176f7f0)
+![2](https://github.com/user-attachments/assets/1d352197-6c19-4389-9c46-02870427bc64)
+
 <p>
-<img src="https://i.imgur.com/S33TPEZ.png" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="https://i.imgur.com/7HyoONM.png" height="80%" width="80%" alt="Configuration Steps"/>
-</p>
-<p>
-After installing osTicket, it is now time to make configurations to use it as a ticketing system. One thing to note is that I switch between Admin and Agent panels as each panel has different configurations. To tell which panel is used, look at the top right of the osTicket screen. If it reads Agent Panel, the Admin panel is the one being used and vice versa.
+Login to osTicket with the admin_user->Click on Agents, Roles, and then Add New Role. Type in name “Supreme Users”->Grant all permissions
 
 The first step to take is to make a new role called Supreme Admin. For the purposes of this lab, I am intentionally creating a role that has every permission that can be granted. To create a new role, open the Admin panel enter the Agents Menu. Click on Roles and create the new role from there.
 </p>
 <br />
+![image](https://github.com/user-attachments/assets/28f3a11d-9d4f-4bc9-a4ed-98b031bfc515)
 
+
+Click on Departments->Add New Department->Name System Administrators  
 <p>
 <img src="https://i.imgur.com/EQnl5rh.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-Next, a new Department will be created for System Administrators. In the Admin panel, open the Agents menu and click on Departments to create a new Department within osTicket.
+
+
 </p>
 <br />
 
