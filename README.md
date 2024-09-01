@@ -88,5 +88,31 @@ Switch to Agent Panel and click->Users->Add User-Fill in details
 <br />
 
 
+![9](https://github.com/user-attachments/assets/e1b08b2d-1b0f-45a8-a0b5-88908b7f42cc)
+
+
+![10](https://github.com/user-attachments/assets/a85b03cb-724a-4d02-a5d5-03f2f5b591a5)
+
+
+Switch to Admin Panel and click->Manage-SLA Fill out SLA guidelines
+
+
+<br />
+<br />
+
+
+![11](https://github.com/user-attachments/assets/9d361a2e-dc75-44d1-acf2-5d5f8095a022)
+
+
+![12](https://github.com/user-attachments/assets/400223a8-db73-4a50-8a15-91d403eaf37e)
+
+
+Click on->Help Topics->Add New Help Topic Fill out Help Topic parameters 
+
+
+<br />
+<br />
+
+
 <h2>osTicket Configurations are Complete </h2>
 
