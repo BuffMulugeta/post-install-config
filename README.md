@@ -82,6 +82,9 @@ Click on Agents->Add New Agent->Fill in details
 ![8](https://github.com/user-attachments/assets/9803e9db-80e3-4a03-996a-ac3f21a0fe36)
 
 
+Switch to Agent Panel and click->Users->Add User-Fill in details
+
+<br />
 <br />
 
 
