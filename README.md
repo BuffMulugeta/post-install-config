@@ -35,9 +35,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 Login to osTicket with the admin_user->Click on Agents, Roles, and then Add New Role. Type in name “Supreme Users”->Grant all permissions
 
-The first step to take is to make a new role called Supreme Admin. For the purposes of this lab, I am intentionally creating a role that has every permission that can be granted. To create a new role, open the Admin panel enter the Agents Menu. Click on Roles and create the new role from there.
 </p>
-<br />
+
 ![image](https://github.com/user-attachments/assets/28f3a11d-9d4f-4bc9-a4ed-98b031bfc515)
 
 
