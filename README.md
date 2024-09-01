@@ -30,12 +30,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 ![1](https://github.com/user-attachments/assets/195d865c-902f-4a92-bd4e-54418176f7f0)
+
+<br />
+
+
 ![2](https://github.com/user-attachments/assets/1d352197-6c19-4389-9c46-02870427bc64)
 
 <p>
 Login to osTicket with the admin_user->Click on Agents, Roles, and then Add New Role. Type in name “Supreme Users”->Grant all permissions
 <br />
 </p>
+<br />
 <br />
 
 
@@ -44,17 +49,16 @@ Login to osTicket with the admin_user->Click on Agents, Roles, and then Add New 
 
 Click on Departments->Add New Department->Name System Administrators  
 <p>
-<img src="https://i.imgur.com/EQnl5rh.png" height="80%" width="80%" alt="Configuration Steps"/>
-</p>
-<p>
 
-
-</p>
+<br />
 <br />
 
-<p>
-<img src="https://i.imgur.com/d7WuRn8.png" height="80%" width="80%" alt="Configuration Steps"/>
-</p>
+
+![3](https://github.com/user-attachments/assets/5c53415c-0078-49df-b5f7-33f3032d1900)
+
+
+Click on Teams->Add New Team->Name Level II Support
+
 <p>
 A new Level II Support Team will have to be created to supplement the Level I Support Team already made within osTicket. To create a new Team, enter the Admin panel and open the Agents menu. Click on Teams and add any new teams that need to be created.
 </p>
