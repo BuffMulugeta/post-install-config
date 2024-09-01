@@ -23,15 +23,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 1 Create a Superuser
 - Item 2 Add a New Department
 - Item 3 Add a New Team
-- Item 4 Add a New User
-- Item 5 Add a New Agent
-- Item 6 Ad a New User
-- Item 7 Configure SLA
-- Item 8 Configure Help Topics
+- Item 4 Add a New Agent
+- Item 5 Add a New User
+- Item 6 Configure SLA
+- Item 7 Configure Help Topics
+  
 
 <h2>Configuration Steps</h2>
 
 
+Step 1
 ![1](https://github.com/user-attachments/assets/195d865c-902f-4a92-bd4e-54418176f7f0)
 
 <br />
@@ -47,6 +48,7 @@ Login to osTicket with the admin_user->Click on Agents, Roles, and then Add New 
 <br />
 
 
+Step 2
 ![image](https://github.com/user-attachments/assets/28f3a11d-9d4f-4bc9-a4ed-98b031bfc515)
 
 
@@ -57,6 +59,7 @@ Click on Departments->Add New Department->Name System Administrators
 <br />
 
 
+Step 3
 ![3](https://github.com/user-attachments/assets/5c53415c-0078-49df-b5f7-33f3032d1900)
 
 
@@ -67,6 +70,7 @@ Click on Teams->Add New Team->Name Level II Support
 <br />
 
 
+Step 4
 ![4](https://github.com/user-attachments/assets/fc768cdb-bd01-414d-a32f-22895fb4d8e2)
 
 ![5](https://github.com/user-attachments/assets/54e36041-78ee-45a1-af2e-c3c4807e0bef)
@@ -79,6 +83,7 @@ Click on Agents->Add New Agent->Fill in details
 <br ?>
 
 
+Step 5
 ![7](https://github.com/user-attachments/assets/fc5853af-7874-4bc9-bf13-9f6548db18bb)
 
 
@@ -91,6 +96,7 @@ Switch to Agent Panel and click->Users->Add User-Fill in details
 <br />
 
 
+Step 6
 ![9](https://github.com/user-attachments/assets/e1b08b2d-1b0f-45a8-a0b5-88908b7f42cc)
 
 
@@ -103,7 +109,7 @@ Switch to Admin Panel and click->Manage-SLA Fill out SLA parameters
 <br />
 <br />
 
-
+Step 7
 ![11](https://github.com/user-attachments/assets/9d361a2e-dc75-44d1-acf2-5d5f8095a022)
 
 
