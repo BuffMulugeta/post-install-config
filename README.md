@@ -20,11 +20,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 1 Create a Superuser
+- Item 2 Add a New Department
+- Item 3 Add a New Team
+- Item 4 Add a New User
+- Item 5 Add a New Agent
+- Item 6 Ad a New User
+- Item 7 Configure SLA
+- Item 8 Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
@@ -94,7 +97,7 @@ Switch to Agent Panel and click->Users->Add User-Fill in details
 ![10](https://github.com/user-attachments/assets/a85b03cb-724a-4d02-a5d5-03f2f5b591a5)
 
 
-Switch to Admin Panel and click->Manage-SLA Fill out SLA guidelines
+Switch to Admin Panel and click->Manage-SLA Fill out SLA parameters
 
 
 <br />
